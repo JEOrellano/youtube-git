@@ -1,0 +1,98 @@
+commit 37c7e516bd014f60b5a03d2c2eeff09e6a3ac619
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 22:49:11 2025 -0300
+
+    Agrenado 2 parrafos
+
+commit e84cdc459b9d08d11c829489caf2858d27d4f2c9
+Merge: b90d38d 7332511
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 22:46:32 2025 -0300
+
+    Resolviendo conflicto en estaciones del año con fechas de inicio
+
+commit b90d38d160671aad1556c0adf69696cddd9027ff
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 22:35:44 2025 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 7332511f06e3a9040d4a552392737c038b449f8a
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 22:35:44 2025 -0300
+
+    Agreagndo las estaciones del año
+
+commit c760fca92d7e787b92c8afb9e560c4fc7c1ccd84
+Merge: 9bd3545 d93b347
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 22:11:23 2025 -0300
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit d93b3472ecec579128bf2841a27b18a626c4c4ad
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 22:03:43 2025 -0300
+
+    Agregando index.js al index.html
+
+commit 9bd35459ee7d7ec41b14aa8eaa27bc838e724777
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 22:01:49 2025 -0300
+
+    Agregando style.css al index.html
+
+commit 2e1cea5ed556f755208b06e5189e94d34bcbd6cc
+Merge: 9466547 b9f3cd1
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 21:32:52 2025 -0300
+
+    Merge branch 'js'
+
+commit b9f3cd183d7b6186b893d5b375ef14561018a893
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 21:29:33 2025 -0300
+
+    Creando index.js
+
+commit 9466547ae6a92f18a64800c703e424fd8d3d2134
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 21:26:37 2025 -0300
+
+    Creando style.css
+
+commit 761aba863320d1a6c14d163e660212b204de37f2
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 21:22:44 2025 -0300
+
+    Creando index.html
+
+commit 03495b39d71dfb10664c46f3a9c4db049b6b6cc2
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 19:50:42 2025 -0300
+
+    Ignorando archivos .exe
+
+commit 7fcf6d0e50c5a6947562beba884aa9920a7a84b1
+Author: Joselo Esteban Orellano <95329694+JEOrellano@users.noreply.github.com>
+Date:   Wed Mar 12 13:07:46 2025 -0300
+
+    Creando licencia del repositorio
+
+commit 73db0d77e739bc9cd87e7ac7c06c21c7fcc07f78
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 13:01:59 2025 -0300
+
+    Agregando más contenido al README
+
+commit 0fcf0e4f27da324ca195a3e61b4c28757d1fb53c
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 12:53:04 2025 -0300
+
+    Agregando contenido inicial al README
+
+commit 3514818f59b61db51ef857957be042c61664e3c7
+Author: Joselo Esteban Orellano <mobilelegendsbang2020bang@gmail.com>
+Date:   Wed Mar 12 12:39:14 2025 -0300
+
+    Primer commit í¸
